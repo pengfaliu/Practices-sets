@@ -1,0 +1,6 @@
+[package]
+name = "httpctl"
+version = "0.1.0"
+authors = ["lfp"]
+
+[dependencies]
