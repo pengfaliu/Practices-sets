@@ -16,6 +16,6 @@ int main()
 {
     union Data data;
     printf("Memory size occupied by data : %d\n", sizeof(data));
-           return 0;
+    return 0;
     
 };
