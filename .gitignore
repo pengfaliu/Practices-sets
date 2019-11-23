@@ -1,0 +1,7 @@
+#a.out
+*.out
+# python project files
+*.wpr
+*.wpu
+# java idea files
+Java/.idea/
