@@ -5,3 +5,9 @@
 *.wpu
 # java idea files
 Java/.idea/
+
+# macos
+.DS_Store
+
+# git 
+.gitignore
