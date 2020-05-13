@@ -1,6 +1,9 @@
-void main()
+#include <stdio.h>
+
+int main()
 {
-	printf ("hello,world!\n");
+	printf("yutianqiang,world!\n");
 	printf("------------------\n");
+	return 0;
 }
 
