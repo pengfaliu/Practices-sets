@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="getavg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getavg_jar</output-path>
+    <root id="archive" name="getavg.jar">
+      <element id="module-output" name="getavg" />
+    </root>
+  </artifact>
+</component>
