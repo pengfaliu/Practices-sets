@@ -1,0 +1,1136 @@
+2016-12-31 23:27:25,514 INFO: all begin...
+2016-12-31 23:27:26,288 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:27:26,290 INFO: Search blog url------>
+2016-12-31 23:27:26,290 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:27:26,290 INFO: Add blog url------>
+2016-12-31 23:27:26,290 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:27:26,338 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:27:26,338 INFO: Search blog url------>
+2016-12-31 23:27:26,338 INFO: There are not blog list.
+2016-12-31 23:27:27,684 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:27:27,685 INFO: Search blog url------>
+2016-12-31 23:27:27,685 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:27:27,686 INFO: Add blog url------>
+2016-12-31 23:27:27,686 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:27:27,720 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:27:27,720 INFO: Search blog url------>
+2016-12-31 23:27:27,720 INFO: There are not blog list.
+2016-12-31 23:27:27,768 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:27:27,769 INFO: Search blog url------>
+2016-12-31 23:27:27,770 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:27:27,770 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:27:27,770 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:27:27,770 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:27:27,770 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:27:27,770 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:27:27,770 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:27:27,770 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:27:27,770 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:27:27,770 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:27:27,770 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:27:27,770 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:27:27,771 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:27:27,771 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:27:27,771 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:27:27,771 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:27:27,771 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:27:27,771 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:27:27,771 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:27:27,771 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:27:27,771 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:27:27,771 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:27:27,771 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:27:27,771 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:27:27,771 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:27:27,771 INFO: Add blog url------>
+2016-12-31 23:27:27,771 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:27:27,772 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:27:27,773 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:27:27,774 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:27:27,774 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:27:27,774 INFO: all done...
+2016-12-31 23:34:00,557 INFO: all begin...
+2016-12-31 23:34:00,651 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:34:00,652 INFO: Search blog url------>
+2016-12-31 23:34:00,652 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:34:00,652 INFO: Add blog url------>
+2016-12-31 23:34:00,679 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:34:00,679 INFO: Search blog url------>
+2016-12-31 23:34:00,680 INFO: There are not blog list.
+2016-12-31 23:34:00,706 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:34:00,708 INFO: Search blog url------>
+2016-12-31 23:34:00,708 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:34:00,708 INFO: Add blog url------>
+2016-12-31 23:34:00,750 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:34:00,750 INFO: Search blog url------>
+2016-12-31 23:34:00,750 INFO: There are not blog list.
+2016-12-31 23:34:00,783 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:34:00,785 INFO: Search blog url------>
+2016-12-31 23:34:00,786 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:34:00,786 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:34:00,786 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:34:00,786 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:34:00,786 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:34:00,786 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:34:00,786 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:34:00,786 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:34:00,786 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:34:00,786 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:34:00,786 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:34:00,786 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:34:00,786 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:34:00,786 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:34:00,786 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:34:00,786 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:34:00,787 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:34:00,787 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:34:00,787 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:34:00,787 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:34:00,787 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:34:00,787 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:34:00,787 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:34:00,787 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:34:00,787 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:34:00,787 INFO: Add blog url------>
+2016-12-31 23:34:00,787 INFO: all done...
+2016-12-31 23:36:45,434 INFO: all begin...
+2016-12-31 23:36:45,474 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:36:45,477 INFO: Search blog url------>
+2016-12-31 23:36:45,477 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:36:45,477 INFO: Add blog url------>
+2016-12-31 23:36:45,523 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:36:45,523 INFO: Search blog url------>
+2016-12-31 23:36:45,523 INFO: There are not blog list.
+2016-12-31 23:36:45,583 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:36:45,584 INFO: Search blog url------>
+2016-12-31 23:36:45,584 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:36:45,585 INFO: Add blog url------>
+2016-12-31 23:36:45,622 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:36:45,623 INFO: Search blog url------>
+2016-12-31 23:36:45,623 INFO: There are not blog list.
+2016-12-31 23:36:45,664 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:36:45,666 INFO: Search blog url------>
+2016-12-31 23:36:45,666 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:36:45,666 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:36:45,666 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:36:45,666 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:36:45,666 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:36:45,666 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:36:45,666 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:36:45,666 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:36:45,666 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:36:45,666 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:36:45,666 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:36:45,666 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:36:45,666 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:36:45,666 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:36:45,666 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:36:45,667 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:36:45,667 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:36:45,667 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:36:45,667 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:36:45,667 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:36:45,667 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:36:45,667 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:36:45,667 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:36:45,667 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:36:45,667 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:36:45,667 INFO: Add blog url------>
+2016-12-31 23:36:45,668 INFO: all done...
+2016-12-31 23:37:00,055 INFO: all begin...
+2016-12-31 23:37:00,502 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:37:00,503 INFO: Search blog url------>
+2016-12-31 23:37:00,504 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:37:00,504 INFO: Add blog url------>
+2016-12-31 23:37:00,504 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:37:00,538 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:37:00,538 INFO: Search blog url------>
+2016-12-31 23:37:00,538 INFO: There are not blog list.
+2016-12-31 23:37:00,566 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:37:00,567 INFO: Search blog url------>
+2016-12-31 23:37:00,568 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:37:00,568 INFO: Add blog url------>
+2016-12-31 23:37:00,568 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:37:00,598 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:37:00,598 INFO: Search blog url------>
+2016-12-31 23:37:00,598 INFO: There are not blog list.
+2016-12-31 23:37:00,637 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:37:00,640 INFO: Search blog url------>
+2016-12-31 23:37:00,640 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:37:00,640 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:37:00,640 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:37:00,640 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:37:00,640 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:37:00,640 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:37:00,640 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:37:00,640 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:37:00,641 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:37:00,641 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:37:00,641 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:37:00,641 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:37:00,641 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:37:00,641 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:37:00,641 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:37:00,641 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:37:00,641 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:37:00,641 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:37:00,641 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:37:00,641 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:37:00,641 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:37:00,642 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:37:00,642 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:37:00,642 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:37:00,642 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:37:00,642 INFO: Add blog url------>
+2016-12-31 23:37:00,642 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:37:00,642 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:37:00,642 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:37:00,643 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:37:00,643 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:37:00,643 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:37:00,643 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:37:00,643 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:37:00,644 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:37:00,644 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:37:00,644 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:37:00,644 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:37:00,645 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:37:00,645 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:37:00,645 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:37:00,645 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:37:00,646 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:37:00,646 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:37:00,646 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:37:00,646 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:37:00,646 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:37:00,646 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:37:00,647 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:37:00,647 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:37:00,647 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:37:00,647 INFO: all done...
+2016-12-31 23:37:42,581 INFO: all begin...
+2016-12-31 23:37:42,630 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:37:42,631 INFO: Search blog url------>
+2016-12-31 23:37:42,631 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:37:42,631 INFO: Add blog url------>
+2016-12-31 23:37:42,632 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:37:42,668 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:37:42,668 INFO: Search blog url------>
+2016-12-31 23:37:42,668 INFO: There are not blog list.
+2016-12-31 23:37:42,695 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:37:42,696 INFO: Search blog url------>
+2016-12-31 23:37:42,696 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:37:42,696 INFO: Add blog url------>
+2016-12-31 23:37:42,696 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:37:42,724 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:37:42,724 INFO: Search blog url------>
+2016-12-31 23:37:42,724 INFO: There are not blog list.
+2016-12-31 23:37:42,759 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:37:42,761 INFO: Search blog url------>
+2016-12-31 23:37:42,761 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:37:42,761 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:37:42,761 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:37:42,761 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:37:42,761 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:37:42,761 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:37:42,761 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:37:42,761 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:37:42,762 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:37:42,762 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:37:42,762 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:37:42,762 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:37:42,762 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:37:42,762 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:37:42,762 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:37:42,762 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:37:42,762 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:37:42,762 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:37:42,762 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:37:42,762 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:37:42,762 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:37:42,762 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:37:42,762 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:37:42,762 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:37:42,762 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:37:42,763 INFO: Add blog url------>
+2016-12-31 23:37:42,763 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:37:42,763 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:37:42,763 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:37:42,763 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:37:42,763 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:37:42,763 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:37:42,763 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:37:42,764 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:37:42,764 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:37:42,764 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:37:42,764 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:37:42,764 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:37:42,765 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:37:42,765 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:37:42,765 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:37:42,765 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:37:42,765 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:37:42,766 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:37:42,766 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:37:42,766 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:37:42,766 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:37:42,766 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:37:42,767 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:37:42,767 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:37:42,767 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:37:42,767 INFO: all done...
+2016-12-31 23:38:12,834 INFO: all begin...
+2016-12-31 23:38:12,880 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:38:12,882 INFO: Search blog url------>
+2016-12-31 23:38:12,882 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:38:12,882 INFO: Add blog url------>
+2016-12-31 23:38:12,882 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:38:12,915 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:38:12,915 INFO: Search blog url------>
+2016-12-31 23:38:12,915 INFO: There are not blog list.
+2016-12-31 23:38:12,950 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:38:12,951 INFO: Search blog url------>
+2016-12-31 23:38:12,951 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:38:12,951 INFO: Add blog url------>
+2016-12-31 23:38:12,951 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:38:12,987 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:38:12,987 INFO: Search blog url------>
+2016-12-31 23:38:12,987 INFO: There are not blog list.
+2016-12-31 23:38:13,031 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:38:13,034 INFO: Search blog url------>
+2016-12-31 23:38:13,034 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:38:13,034 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:38:13,034 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:38:13,034 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:38:13,034 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:38:13,034 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:38:13,034 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:38:13,034 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:38:13,035 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:38:13,035 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:38:13,035 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:38:13,035 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:38:13,035 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:38:13,035 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:38:13,035 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:38:13,035 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:38:13,035 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:38:13,035 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:38:13,035 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:38:13,035 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:38:13,035 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:38:13,035 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:38:13,035 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:38:13,035 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:38:13,035 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:38:13,036 INFO: Add blog url------>
+2016-12-31 23:38:13,036 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:38:13,036 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:38:13,036 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:38:13,036 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:38:13,036 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:38:13,036 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:38:13,036 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:38:13,037 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:38:13,038 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:38:13,038 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:38:13,038 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:38:13,038 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:38:13,038 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:38:13,039 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:38:13,039 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:38:13,039 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:38:13,039 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:38:13,039 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:38:13,040 INFO: all done...
+2016-12-31 23:38:57,633 INFO: all begin...
+2016-12-31 23:38:58,103 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:38:58,105 INFO: Search blog url------>
+2016-12-31 23:38:58,105 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:38:58,105 INFO: Add blog url------>
+2016-12-31 23:38:58,105 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:38:58,145 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:38:58,145 INFO: Search blog url------>
+2016-12-31 23:38:58,145 INFO: There are not blog list.
+2016-12-31 23:38:58,191 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:38:58,192 INFO: Search blog url------>
+2016-12-31 23:38:58,192 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:38:58,192 INFO: Add blog url------>
+2016-12-31 23:38:58,193 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:38:58,234 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:38:58,235 INFO: Search blog url------>
+2016-12-31 23:38:58,235 INFO: There are not blog list.
+2016-12-31 23:38:58,277 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:38:58,279 INFO: Search blog url------>
+2016-12-31 23:38:58,279 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:38:58,279 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:38:58,279 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:38:58,279 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:38:58,279 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:38:58,280 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:38:58,280 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:38:58,280 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:38:58,280 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:38:58,280 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:38:58,280 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:38:58,280 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:38:58,280 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:38:58,280 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:38:58,281 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:38:58,281 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:38:58,281 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:38:58,281 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:38:58,281 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:38:58,281 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:38:58,281 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:38:58,281 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:38:58,281 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:38:58,281 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:38:58,281 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:38:58,282 INFO: Add blog url------>
+2016-12-31 23:38:58,282 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:38:58,282 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:38:58,282 INFO: local variable 'new' referenced before assignment
+2016-12-31 23:38:58,282 INFO: all done...
+2016-12-31 23:41:03,771 INFO: all begin...
+2016-12-31 23:41:03,816 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:41:03,818 INFO: Search blog url------>
+2016-12-31 23:41:03,818 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:41:03,819 INFO: Add blog url------>
+2016-12-31 23:41:03,819 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:41:03,846 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:41:03,846 INFO: Search blog url------>
+2016-12-31 23:41:03,846 INFO: There are not blog list.
+2016-12-31 23:41:03,875 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:41:03,876 INFO: Search blog url------>
+2016-12-31 23:41:03,876 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:41:03,876 INFO: Add blog url------>
+2016-12-31 23:41:03,876 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:41:03,936 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:41:03,936 INFO: Search blog url------>
+2016-12-31 23:41:03,936 INFO: There are not blog list.
+2016-12-31 23:41:03,972 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:41:03,974 INFO: Search blog url------>
+2016-12-31 23:41:03,975 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:41:03,975 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:41:03,975 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:41:03,975 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:41:03,975 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:41:03,975 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:41:03,975 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:41:03,975 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:41:03,975 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:41:03,975 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:41:03,975 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:41:03,976 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:41:03,976 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:41:03,976 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:41:03,976 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:41:03,976 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:41:03,976 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:41:03,976 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:41:03,976 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:41:03,976 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:41:03,976 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:41:03,976 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:41:03,976 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:41:03,976 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:41:03,977 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:41:03,977 INFO: Add blog url------>
+2016-12-31 23:41:03,977 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:41:03,977 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:41:03,977 INFO: local variable 'new' referenced before assignment
+2016-12-31 23:41:03,977 INFO: all done...
+2016-12-31 23:48:12,504 INFO: all begin...
+2016-12-31 23:48:12,647 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:48:12,648 INFO: Search blog url------>
+2016-12-31 23:48:12,649 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:48:12,649 INFO: Add blog url------>
+2016-12-31 23:48:12,649 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:48:12,682 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:48:12,683 INFO: Search blog url------>
+2016-12-31 23:48:12,683 INFO: There are not blog list.
+2016-12-31 23:48:12,761 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:48:12,763 INFO: Search blog url------>
+2016-12-31 23:48:12,763 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:48:12,763 INFO: Add blog url------>
+2016-12-31 23:48:12,763 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:48:12,799 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:48:12,800 INFO: Search blog url------>
+2016-12-31 23:48:12,800 INFO: There are not blog list.
+2016-12-31 23:48:12,856 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:48:12,859 INFO: Search blog url------>
+2016-12-31 23:48:12,859 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:48:12,859 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:48:12,859 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:48:12,859 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:48:12,859 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:48:12,859 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:48:12,859 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:48:12,859 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:48:12,859 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:48:12,859 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:48:12,859 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:48:12,860 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:48:12,860 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:48:12,860 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:48:12,860 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:48:12,860 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:48:12,860 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:48:12,860 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:48:12,860 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:48:12,860 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:48:12,860 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:48:12,860 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:48:12,860 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:48:12,860 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:48:12,860 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:48:12,860 INFO: Add blog url------>
+2016-12-31 23:48:12,860 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:48:12,860 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:48:12,861 INFO: local variable 'new' referenced before assignment
+2016-12-31 23:48:12,861 INFO: all done...
+2016-12-31 23:48:41,082 INFO: all begin...
+2016-12-31 23:48:41,309 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:48:41,310 INFO: Search blog url------>
+2016-12-31 23:48:41,310 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:48:41,310 INFO: Add blog url------>
+2016-12-31 23:48:41,310 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:48:41,385 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:48:41,385 INFO: Search blog url------>
+2016-12-31 23:48:41,385 INFO: There are not blog list.
+2016-12-31 23:48:41,543 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:48:41,544 INFO: Search blog url------>
+2016-12-31 23:48:41,544 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:48:41,544 INFO: Add blog url------>
+2016-12-31 23:48:41,544 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:48:41,680 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:48:41,680 INFO: Search blog url------>
+2016-12-31 23:48:41,680 INFO: There are not blog list.
+2016-12-31 23:48:41,719 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:48:41,720 INFO: Search blog url------>
+2016-12-31 23:48:41,720 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:48:41,720 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:48:41,721 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:48:41,721 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:48:41,721 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:48:41,721 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:48:41,721 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:48:41,721 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:48:41,721 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:48:41,721 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:48:41,721 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:48:41,721 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:48:41,721 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:48:41,721 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:48:41,721 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:48:41,721 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:48:41,721 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:48:41,721 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:48:41,721 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:48:41,721 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:48:41,722 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:48:41,722 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:48:41,722 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:48:41,722 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:48:41,722 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:48:41,722 INFO: Add blog url------>
+2016-12-31 23:48:41,722 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:48:41,722 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:48:41,722 INFO: local variable 'new' referenced before assignment
+2016-12-31 23:48:41,723 INFO: all done...
+2016-12-31 23:50:18,753 INFO: all begin...
+2016-12-31 23:50:19,237 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:50:19,239 INFO: Search blog url------>
+2016-12-31 23:50:19,239 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:50:19,239 INFO: Add blog url------>
+2016-12-31 23:50:19,239 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:50:19,294 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:50:19,294 INFO: Search blog url------>
+2016-12-31 23:50:19,294 INFO: There are not blog list.
+2016-12-31 23:50:19,353 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:50:19,354 INFO: Search blog url------>
+2016-12-31 23:50:19,354 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:50:19,354 INFO: Add blog url------>
+2016-12-31 23:50:19,354 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:50:19,386 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:50:19,386 INFO: Search blog url------>
+2016-12-31 23:50:19,386 INFO: There are not blog list.
+2016-12-31 23:50:19,422 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:50:19,424 INFO: Search blog url------>
+2016-12-31 23:50:19,424 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:50:19,424 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:50:19,424 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:50:19,424 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:50:19,424 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:50:19,425 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:50:19,425 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:50:19,425 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:50:19,425 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:50:19,425 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:50:19,425 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:50:19,425 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:50:19,426 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:50:19,426 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:50:19,426 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:50:19,426 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:50:19,426 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:50:19,426 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:50:19,426 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:50:19,426 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:50:19,426 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:50:19,426 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:50:19,426 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:50:19,426 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:50:19,426 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:50:19,426 INFO: Add blog url------>
+2016-12-31 23:50:19,426 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:50:19,426 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:50:19,426 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:50:19,426 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:50:19,427 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:50:19,428 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:50:19,429 INFO: all done...
+2016-12-31 23:50:55,283 INFO: all begin...
+2016-12-31 23:50:55,321 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:50:55,323 INFO: Search blog url------>
+2016-12-31 23:50:55,323 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:50:55,323 INFO: Add blog url------>
+2016-12-31 23:50:55,323 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:50:55,363 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:50:55,363 INFO: Search blog url------>
+2016-12-31 23:50:55,363 INFO: There are not blog list.
+2016-12-31 23:50:55,388 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:50:55,389 INFO: Search blog url------>
+2016-12-31 23:50:55,389 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:50:55,389 INFO: Add blog url------>
+2016-12-31 23:50:55,390 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:50:55,421 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:50:55,421 INFO: Search blog url------>
+2016-12-31 23:50:55,421 INFO: There are not blog list.
+2016-12-31 23:50:55,460 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:50:55,462 INFO: Search blog url------>
+2016-12-31 23:50:55,462 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:50:55,462 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:50:55,462 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:50:55,462 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:50:55,462 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:50:55,462 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:50:55,463 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:50:55,463 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:50:55,463 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:50:55,463 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:50:55,463 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:50:55,463 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:50:55,463 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:50:55,463 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:50:55,463 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:50:55,463 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:50:55,463 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:50:55,463 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:50:55,463 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:50:55,463 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:50:55,463 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:50:55,463 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:50:55,463 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:50:55,463 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:50:55,464 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:50:55,464 INFO: Add blog url------>
+2016-12-31 23:50:55,464 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:50:55,464 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:50:55,464 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:50:55,464 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:50:55,464 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:50:55,465 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:50:55,466 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:50:55,466 INFO: all done...
+2016-12-31 23:51:52,862 INFO: all begin...
+2016-12-31 23:51:52,907 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:51:52,910 INFO: Search blog url------>
+2016-12-31 23:51:52,910 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:51:52,910 INFO: Add blog url------>
+2016-12-31 23:51:52,911 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:51:52,949 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:51:52,949 INFO: Search blog url------>
+2016-12-31 23:51:52,949 INFO: There are not blog list.
+2016-12-31 23:51:52,984 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:51:52,985 INFO: Search blog url------>
+2016-12-31 23:51:52,985 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:51:52,985 INFO: Add blog url------>
+2016-12-31 23:51:52,985 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:51:53,025 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:51:53,025 INFO: Search blog url------>
+2016-12-31 23:51:53,025 INFO: There are not blog list.
+2016-12-31 23:51:53,081 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:51:53,083 INFO: Search blog url------>
+2016-12-31 23:51:53,083 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:51:53,083 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:51:53,084 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:51:53,084 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:51:53,084 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:51:53,084 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:51:53,084 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:51:53,084 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:51:53,084 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:51:53,084 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:51:53,084 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:51:53,084 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:51:53,085 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:51:53,085 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:51:53,085 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:51:53,085 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:51:53,085 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:51:53,085 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:51:53,085 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:51:53,085 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:51:53,086 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:51:53,086 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:51:53,086 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:51:53,086 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:51:53,086 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:51:53,086 INFO: Add blog url------>
+2016-12-31 23:51:53,086 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:51:53,086 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:51:53,086 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:51:53,087 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:51:53,088 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:51:53,089 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:51:53,089 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:51:53,089 INFO: all done...
+2016-12-31 23:52:09,547 INFO: all begin...
+2016-12-31 23:52:09,581 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:52:09,583 INFO: Search blog url------>
+2016-12-31 23:52:09,583 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:52:09,584 INFO: Add blog url------>
+2016-12-31 23:52:09,584 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:52:09,618 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:52:09,618 INFO: Search blog url------>
+2016-12-31 23:52:09,618 INFO: There are not blog list.
+2016-12-31 23:52:09,644 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:52:09,645 INFO: Search blog url------>
+2016-12-31 23:52:09,646 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:52:09,646 INFO: Add blog url------>
+2016-12-31 23:52:09,646 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:52:09,674 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:52:09,675 INFO: Search blog url------>
+2016-12-31 23:52:09,675 INFO: There are not blog list.
+2016-12-31 23:52:09,711 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:52:09,713 INFO: Search blog url------>
+2016-12-31 23:52:09,713 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:52:09,713 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:52:09,713 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:52:09,713 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:52:09,713 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:52:09,713 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:52:09,713 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:52:09,713 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:52:09,713 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:52:09,714 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:52:09,714 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:52:09,714 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:52:09,714 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:52:09,714 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:52:09,714 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:52:09,714 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:52:09,714 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:52:09,714 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:52:09,714 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:52:09,714 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:52:09,714 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:52:09,714 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:52:09,714 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:52:09,714 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:52:09,714 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:52:09,715 INFO: Add blog url------>
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:52:09,715 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:52:09,716 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:52:09,716 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:52:09,716 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:52:09,716 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:52:09,716 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:52:09,717 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:52:09,717 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:52:09,717 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:52:09,717 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:52:09,717 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:52:09,717 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:52:09,718 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:52:09,718 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:52:09,718 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:52:09,718 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:52:09,718 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:52:09,719 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:52:09,719 INFO: all done...
+2016-12-31 23:52:33,238 INFO: all begin...
+2016-12-31 23:52:33,280 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:52:33,282 INFO: Search blog url------>
+2016-12-31 23:52:33,282 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:52:33,282 INFO: Add blog url------>
+2016-12-31 23:52:33,282 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:52:33,317 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:52:33,317 INFO: Search blog url------>
+2016-12-31 23:52:33,317 INFO: There are not blog list.
+2016-12-31 23:52:33,350 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:52:33,351 INFO: Search blog url------>
+2016-12-31 23:52:33,352 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:52:33,352 INFO: Add blog url------>
+2016-12-31 23:52:33,352 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:52:33,384 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:52:33,384 INFO: Search blog url------>
+2016-12-31 23:52:33,384 INFO: There are not blog list.
+2016-12-31 23:52:33,422 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:52:33,424 INFO: Search blog url------>
+2016-12-31 23:52:33,425 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:52:33,425 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:52:33,425 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:52:33,425 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:52:33,425 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:52:33,425 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:52:33,425 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:52:33,425 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:52:33,425 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:52:33,425 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:52:33,425 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:52:33,425 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:52:33,425 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:52:33,426 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:52:33,426 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:52:33,426 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:52:33,426 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:52:33,426 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:52:33,426 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:52:33,426 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:52:33,426 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:52:33,426 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:52:33,426 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:52:33,426 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:52:33,426 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:52:33,426 INFO: Add blog url------>
+2016-12-31 23:52:33,426 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:52:33,426 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:52:33,426 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:52:33,426 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:52:33,427 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:52:33,428 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:52:33,428 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:52:33,428 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:52:33,429 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:52:33,429 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:52:33,429 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:52:33,429 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:52:33,429 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:52:33,430 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:52:33,430 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:52:33,430 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:52:33,430 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:52:33,431 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:52:33,431 INFO: all done...
+2016-12-31 23:53:14,346 INFO: all begin...
+2016-12-31 23:53:14,830 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:53:14,832 INFO: Search blog url------>
+2016-12-31 23:53:14,832 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:53:14,832 INFO: Add blog url------>
+2016-12-31 23:53:14,832 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:53:14,879 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:53:14,879 INFO: Search blog url------>
+2016-12-31 23:53:14,879 INFO: There are not blog list.
+2016-12-31 23:53:15,216 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:53:15,217 INFO: Search blog url------>
+2016-12-31 23:53:15,217 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:53:15,217 INFO: Add blog url------>
+2016-12-31 23:53:15,217 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:53:15,245 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:53:15,246 INFO: Search blog url------>
+2016-12-31 23:53:15,246 INFO: There are not blog list.
+2016-12-31 23:53:15,931 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:53:15,933 INFO: Search blog url------>
+2016-12-31 23:53:15,933 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:53:15,933 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:53:15,933 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:53:15,933 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:53:15,933 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:53:15,933 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:53:15,933 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:53:15,933 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:53:15,934 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:53:15,934 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:53:15,934 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:53:15,934 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:53:15,934 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:53:15,934 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:53:15,934 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:53:15,934 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:53:15,934 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:53:15,934 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:53:15,934 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:53:15,934 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:53:15,935 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:53:15,935 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:53:15,935 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:53:15,935 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:53:15,935 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:53:15,935 INFO: Add blog url------>
+2016-12-31 23:53:15,935 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:53:15,935 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:53:15,935 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:53:15,935 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:53:15,936 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:53:15,937 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:53:15,938 INFO: all done...
+2016-12-31 23:54:48,159 INFO: all begin...
+2016-12-31 23:54:48,197 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:54:48,199 INFO: Search blog url------>
+2016-12-31 23:54:48,199 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:54:48,199 INFO: Add blog url------>
+2016-12-31 23:54:48,199 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:54:48,241 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:54:48,242 INFO: Search blog url------>
+2016-12-31 23:54:48,242 INFO: There are not blog list.
+2016-12-31 23:54:48,268 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:54:48,269 INFO: Search blog url------>
+2016-12-31 23:54:48,269 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:54:48,269 INFO: Add blog url------>
+2016-12-31 23:54:48,269 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:54:48,313 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:54:48,313 INFO: Search blog url------>
+2016-12-31 23:54:48,313 INFO: There are not blog list.
+2016-12-31 23:54:48,344 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:54:48,346 INFO: Search blog url------>
+2016-12-31 23:54:48,346 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:54:48,346 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:54:48,346 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:54:48,346 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:54:48,346 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:54:48,346 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:54:48,346 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:54:48,347 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:54:48,347 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:54:48,347 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:54:48,347 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:54:48,347 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:54:48,347 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:54:48,347 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:54:48,347 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:54:48,348 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:54:48,348 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:54:48,348 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:54:48,348 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:54:48,348 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:54:48,348 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:54:48,348 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:54:48,348 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:54:48,348 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:54:48,348 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:54:48,348 INFO: Add blog url------>
+2016-12-31 23:54:48,348 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:54:48,348 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:54:48,348 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:54:48,348 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:54:48,349 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:54:48,349 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:54:48,349 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:54:48,349 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:54:48,349 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:54:48,349 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:54:48,349 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:54:48,350 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:54:48,350 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:54:48,350 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:54:48,350 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:54:48,350 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:54:48,350 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:54:48,351 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:54:48,351 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:54:48,351 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:54:48,351 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:54:48,352 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:54:48,352 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:54:48,352 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:54:48,352 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:54:48,353 INFO: all done...
+2016-12-31 23:55:55,362 INFO: all begin...
+2016-12-31 23:55:55,405 INFO: Connetion http://blog.sina.com.cn/shuhong20090508 success...
+2016-12-31 23:55:55,406 INFO: Search blog url------>
+2016-12-31 23:55:55,407 INFO: 1: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:55:55,407 INFO: Add blog url------>
+2016-12-31 23:55:55,407 INFO: http://blog.sina.com.cn/shuhong20090508
+2016-12-31 23:55:55,442 INFO: Connetion http://blog.sina.com.cn/u/1362838203 success...
+2016-12-31 23:55:55,442 INFO: Search blog url------>
+2016-12-31 23:55:55,442 INFO: There are not blog list.
+2016-12-31 23:55:55,475 INFO: Connetion http://blog.sina.com.cn/u/1335430783 success...
+2016-12-31 23:55:55,476 INFO: Search blog url------>
+2016-12-31 23:55:55,476 INFO: 1: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:55:55,476 INFO: Add blog url------>
+2016-12-31 23:55:55,477 INFO: http://blog.sina.com.cn/jingkanxianshu
+2016-12-31 23:55:55,512 INFO: Connetion http://blog.sina.com.cn/u/1319236315 success...
+2016-12-31 23:55:55,513 INFO: Search blog url------>
+2016-12-31 23:55:55,513 INFO: There are not blog list.
+2016-12-31 23:55:55,556 INFO: Connetion http://blog.sina.com.cn/u/1280720164 success...
+2016-12-31 23:55:55,558 INFO: Search blog url------>
+2016-12-31 23:55:55,558 INFO: 1: http://blog.sina.com.cn/hann12121
+2016-12-31 23:55:55,558 INFO: 2: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:55:55,558 INFO: 3: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:55:55,559 INFO: 4: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:55:55,559 INFO: 5: http://blog.sina.com.cn/psxf
+2016-12-31 23:55:55,559 INFO: 6: http://blog.sina.com.cn/linming
+2016-12-31 23:55:55,559 INFO: 7: http://blog.sina.com.cn/afi
+2016-12-31 23:55:55,559 INFO: 8: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:55:55,559 INFO: 9: http://blog.sina.com.cn/atoyota
+2016-12-31 23:55:55,559 INFO: 10: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:55:55,559 INFO: 11: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:55:55,559 INFO: 12: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:55:55,559 INFO: 13: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:55:55,559 INFO: 14: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:55:55,559 INFO: 15: http://blog.sina.com.cn/xz119111
+2016-12-31 23:55:55,560 INFO: 16: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:55:55,560 INFO: 17: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:55:55,560 INFO: 18: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:55:55,560 INFO: 19: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:55:55,560 INFO: 20: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:55:55,560 INFO: 21: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:55:55,560 INFO: 22: http://blog.sina.com.cn/hcw
+2016-12-31 23:55:55,560 INFO: 23: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:55:55,560 INFO: 24: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:55:55,560 INFO: 25: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:55:55,560 INFO: Add blog url------>
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/hann12121
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/u/1285653780
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/zoulirose
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/wanpilaohan
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/psxf
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/linming
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/afi
+2016-12-31 23:55:55,561 INFO: http://blog.sina.com.cn/qiuyepiao
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/atoyota
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/qingtingNO1BLOG
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/xiaozheng
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/chinacq001
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/u/1263001425
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/hejunyi
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/xz119111
+2016-12-31 23:55:55,562 INFO: http://blog.sina.com.cn/u/1276837022
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/u/1262708827
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/u/1265719257
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/u/1438481015#gbook_1
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/u/1425148585
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/cjf650421
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/hcw
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/anhenzhufeng
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/ruoshuihz
+2016-12-31 23:55:55,563 INFO: http://blog.sina.com.cn/lifestyle
+2016-12-31 23:55:55,563 INFO: all done...
