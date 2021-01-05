@@ -12,14 +12,27 @@ class TestSign:
         
     
     #----------------------------------------------------------------------
-    def sum(int x , y):
-        """"""
-        z = x + y
-        return z
+    def sumtest( arg1, arg2 ):
+        # 返回2个参数的和."
+        total = 0
+        total = arg1 + arg2
+        print "函数内 : ", total
+        return total
     
     
-if __name__ == "__main__":
-    x = TestSign()
-    print(x.test(100))
+if __name__ == "__main__":    
+    a = [100,102,105,234,900]
+    t = 0
+    for i in a:
+        t += i
+        
+    print(t)
+    print(t/len(a))
+    print((t >> 2)- 1)
+    
+        
+        
+    
+        
     
         

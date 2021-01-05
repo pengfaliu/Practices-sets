@@ -16,7 +16,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GuessNumber/.idea/artifacts/GuessNumber_jar.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld1.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/interfacetest/Hockey.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../integer_factorization/src/main/cn/paul/integerfactorization/IntegerFactorization.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/staticfield/KeyWords.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../getavg/src/META-INF/MANIFEST.MF" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/interfacetest/MammalInt.java" />
@@ -34,6 +33,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SprintMVCTest/.idea/libraries/Maven__org_springframework_spring_test_4_1_1_RELEASE.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SprintMVCTest/.idea/libraries/Maven__org_springframework_spring_web_4_1_1_RELEASE.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SprintMVCTest/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/ccffunnynum/MostTimeNum.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GuessNumber/.idea/libraries/MyJavaLibraries.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../getavg/.idea/libraries/MyJavaLibraries.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/override/OverRideTest.java" />
@@ -44,6 +44,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/scannertest/ScannerTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/shape/Shape.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/interfacetest/Sports.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/summation/Summation.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/paul/thiskeyword/ThisKeyWord.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GuessNumber/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RedisTest/.idea/compiler.xml" />
@@ -74,6 +75,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datatype/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../getavg/.idea/workspace.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../hello.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GuessNumber/src/main/cn/paul/guessnum/GuessNumber.java" afterPath="$PROJECT_DIR$/../GuessNumber/src/main/cn/paul/guessnum/GuessNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GuessNumber/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../GuessNumber/src/META-INF/MANIFEST.MF" />
     </list>
     <ignored path="BasicClassPractice.iws" />
@@ -96,7 +98,28 @@
     <favorites_list name="BasicClassPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MostTimeNum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/paul/ccffunnynum/MostTimeNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Summation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/paul/summation/Summation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5683453">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -138,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/cn/paul/enumtest/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/cn/paul/scannertest/proxy.sh" />
         <option value="$PROJECT_DIR$/src/cn/paul/scannertest/ScannerTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/paul/ccffunnynum/MostTimeNum.java" />
+        <option value="$PROJECT_DIR$/src/cn/paul/summation/Summation.java" />
       </list>
     </option>
   </component>
@@ -151,7 +176,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="730" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -176,9 +201,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,10 +238,6 @@
               <option name="myItemId" value="staticfield" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KeyWords.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -269,12 +289,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scannertest" />
+              <option name="myItemId" value="summation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,27 +320,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerTest">
-    <configuration default="false" name="TestAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.paul.Animal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.paul.Animal.TestAbstractClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BasicClassPractice" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Summation">
     <configuration default="false" name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -328,26 +329,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cn.paul.shape.Shape" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BasicClassPractice" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MammalInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.paul.interfacetest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.paul.interfacetest.MammalInt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -393,6 +374,46 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BasicClassPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MostTimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.paul.ccffunnynum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.paul.ccffunnynum.MostTimeNum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BasicClassPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Summation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.paul.summation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.paul.summation.Summation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -697,19 +718,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestAbstractClass" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Shape" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MammalInt" />
-      <item index="3" class="java.lang.String" itemvalue="Application.EnumTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ScannerTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Shape" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EnumTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ScannerTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MostTimeNum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Summation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ScannerTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Shape" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EnumTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestAbstractClass" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MammalInt" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Summation" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MostTimeNum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ScannerTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Shape" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EnumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -732,28 +753,31 @@
       <workItem from="1605671874696" duration="19681000" />
       <workItem from="1605705167679" duration="20000" />
       <workItem from="1605705225381" duration="3017000" />
+      <workItem from="1605887391898" duration="1235000" />
+      <workItem from="1606146019271" duration="54000" />
+      <workItem from="1606147723195" duration="1325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79584000" />
+    <option name="totallyTimeSpent" value="82198000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="730" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="732" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3251634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3241491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2752443" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.4915254" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.4915254" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -788,20 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/paul/thiskeyword/ThisKeyWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/paul/override/OverRideTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/paul/shape/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -820,7 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,7 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,7 +1145,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6233766">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,6 +1152,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5714286">
           <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/paul/ccffunnynum/MostTimeNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/paul/summation/Summation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5683453">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding />
         </state>
       </provider>
