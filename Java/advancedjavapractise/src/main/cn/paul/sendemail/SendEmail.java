@@ -24,9 +24,9 @@ public class SendEmail {
 
     public static void main(String args[]) {
 
-        String toPerson = "pengfaliu@163.com";
+        String toPerson = "xxx@163.com";
 
-        String fromPerson = "liufapeng@happycfc.com";
+        String fromPerson = "xxx@xx.com";
 
         String hostname = "localhost";
 
