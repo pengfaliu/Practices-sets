@@ -7,6 +7,10 @@
 .idea/
 .out/
 
+#vscode
+.vscode/
+a.out
+
 # macos
 .DS_Store
 
