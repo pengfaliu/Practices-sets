@@ -16,12 +16,14 @@ class SR04
 private:
     int Trig_pin;
     int Echo_pin;
-    float distance;
+    long distance;
+    int _pin;
 public:
-    SR04(int TrigPin,int EchoPin);
+    SR04(int pin);
+    //SR04(int TrigPin,int EchoPin);
     //~SR04();
 
-    float Get();
+    long Get();
 };
 
 //#endif 
